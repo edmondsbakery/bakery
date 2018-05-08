@@ -86,8 +86,8 @@ pre {
   color: #fefefe;
   text-shadow: 1px 1px 0 rgba(140,140,140,0.6) , -1px -1px 1px rgba(0, 0, 0, 0.34);
   @include media-query($on-palm) {
-    font-size: 35px;
-      line-height: 50px;
+    font-size: 50px;
+      line-height: 60px;
     }
 }
 

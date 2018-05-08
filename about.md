@@ -2,13 +2,13 @@
 layout: post
 title: About
 permalink: /about/
-img: bheema-2.PNG
+img: FancySmash.PNG
 ---
 
-Small Changes cause greater understanding 
+Edmonds Bakery is right in the heart of downtown Edmonds and has been right here for almost 100 years. The current owner, Ken Bellingham, purchased the bakery in 1992 and has been making beautiful cakes, doughnuts and pastries all that time. Our ovens fire up every Tuesday through Saturday. Come in to enjoy a small business's contribution ot a vibrant and closenit community in Edmonds.
 
 
-<iframe class="video" src="https://www.youtube.com/embed/6qqIy97WbGA" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe class="video" src="https://www.youtube.com/embed/6qqIy97WbGA" frameborder="0" allowfullscreen></iframe> -->
 
 
 Find more themes: [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
