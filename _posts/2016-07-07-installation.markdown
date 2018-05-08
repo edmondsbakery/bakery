@@ -2,7 +2,7 @@
 layout: post
 title:  "Installation"
 categories: jekyll update
-img: lost-1.jpg
+img: UnicornCupcakes.jpg
 categories: one
 ---
 
