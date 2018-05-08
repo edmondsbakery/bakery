@@ -4,7 +4,7 @@ title: Bakery #Keep it short
 email: your@email.com
 
 
-baseurl: /bheema
+baseurl: /bakery
 
 sass:
  style: compressed
