@@ -48,9 +48,9 @@ ul.contact-ul {
 
 </style>
 
-You can send me your feedback or suggestion here. If there is something missing in the theme then you can ask me to add. 
+If your interested in having a wedding, birthday or event cake made to your specifications please contact us. We can also make bulk orders of pastries or muffins, specialty bread orders, or   Feel call us at **425-778-6811** email us directly at edmondsbakery@comcast.net or visit us our store with our address of [418 Main St, Edmonds WA 98020](https://goo.gl/maps/cuFcTX9jG9z).
 
-Also, if you are willing to add it yourself then feel free to open a pull request after making changes.
+Alternatively
 
 <form id="contact-form" class="form" action="https://formspree.io/{{site.email}}" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
@@ -69,11 +69,6 @@ Also, if you are willing to add it yourself then feel free to open a pull reques
             <input class="button" type="submit" value="Send" id="submit"/>
         </ul>
         
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
+        <input type="hidden" name='redirect_to' value="www.google.com" />
         
 </form>
-
-Just update the ``email:`` in config.yml to make this form work.
-
-
-[Add a contact form](https://blog.webjeda.com/jekyll-contact-form/)
