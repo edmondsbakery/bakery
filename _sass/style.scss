@@ -272,7 +272,7 @@ pre {
     }
 }
 .four.border {
-    border-right: 2px solid #f1b52e;
+    border-right: 2px solid transparent;
         @include media-query($on-palm) {
         border-right: none;
     }
