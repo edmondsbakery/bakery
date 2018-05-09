@@ -4,15 +4,10 @@
 <html>
 {% include head.html %}
 <body>
-<div class="container">
-{% include nav-page.html %}
-{% if page.img %}
-<div class="page-image" style="background-image: url({{site.baseurl}}/img/{{page.img}})"></div>
-{% else %}
-{% endif %}
-
 <div class="row" style="margin-top: 2em">
-
+<div class="container bg-mod">
+{% include nav-page.html %}
+ 
   {{ content }}
   
 {% include footer.html %}
