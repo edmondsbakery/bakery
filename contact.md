@@ -48,9 +48,9 @@ ul.contact-ul {
 
 </style>
 
-If your interested in having a wedding, birthday or event cake made to your specifications please contact us. We can also make bulk orders of pastries or muffins, specialty bread orders, or   Feel call us at **425-778-6811** email us directly at edmondsbakery@comcast.net or visit us our store with our address of [418 Main St, Edmonds WA 98020](https://goo.gl/maps/cuFcTX9jG9z).
+If your interested in having a wedding, birthday or event cake made to your specifications please contact us. We can also make bulk orders of pastries or muffins, specialty bread orders, or   Feel call us at **425-778-6811**, email us directly at edmondsbakery@comcast.net or visit us our store with our address of [418 Main St, Edmonds WA 98020](https://goo.gl/maps/cuFcTX9jG9z).
 
-Alternatively
+Alternatively use the form below to email us.
 
 <form id="contact-form" class="form" action="https://formspree.io/{{site.email}}" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
