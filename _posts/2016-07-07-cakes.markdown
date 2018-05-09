@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Cakes"
+categories: jekyll update
+img: UnicornCupcakes.jpg
+categories: one
+---
+
+Gallery of Cakes
