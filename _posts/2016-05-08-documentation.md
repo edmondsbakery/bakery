@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Documentation
-img: /cakes/BlackForest.jpg
+img: cakes/BlackForest.jpg
 ---
 
 Bheema is a theme suitabel for image heavy journal kind of websites. 
