@@ -9,6 +9,3 @@ Edmonds Bakery is right in the heart of downtown Edmonds and has been right here
 
 
 <!-- <iframe class="video" src="https://www.youtube.com/embed/6qqIy97WbGA" frameborder="0" allowfullscreen></iframe> -->
-
-
-Find more themes: [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
