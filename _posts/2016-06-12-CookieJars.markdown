@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usage Guide"
+title:  "Cookie Jars"
 categories: jekyll update
 img: aBlushBliss.jpg
 categories: two
