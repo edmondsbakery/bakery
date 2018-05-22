@@ -21,7 +21,7 @@ words: Our decorated cookies are a sugar cookie base with cream cheese icing. Pr
    </a>
 
    <a href="{{site.baseurl}}/img/BballCookie.jpg">
-    	<div class="four columns news-piece news-piece-2 border" style="background-image: url({{site.baseurl}}/img/BballCookie);">
+    	<div class="four columns news-piece news-piece-2 border" style="background-image: url({{site.baseurl}}/img/BballCookie.jpg);">
     	<p class="news-title">For a Team</p>
    		</div>
    </a>
