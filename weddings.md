@@ -8,6 +8,8 @@ img: aThreeTeir.jpg
 <h3>For your Special Day We'll handle the Cake</h3>
 We've been in the cake business for over 25 years, creating beautiful wedding cakes that taste as great as they look. When planning for your wedding cake, we suggest you [contact]({{site.baseurl}}/contact/) the bakery for a tasting and consulting appointment. We will be happy to assist you in choosing the right size and design as well.
 
+See examples: <a class="button" href="{{site.baseurl}}/gallery">Gallery</a>
+
 <h4>Flavors and Fillings</h4>
 
 | Flavors      | Fillings              |
@@ -45,9 +47,6 @@ French Buttercream, Light Whip Buttercream, and for an additional charge Cream C
 We will be happy to arrange your fresh flowers on your cake if desired, ribbons provided if requested.
 
 These prices are just a guide, more complex designs may cost more, a complimentary anniversary cake provided the first year, call the bakery in advance to order it.
-
-See examples in our gallery:
-<a class="button" href="{{site.baseurl}}/gallery">Gallery</a>
 
 <h4>Delivery Charges</h4>
 

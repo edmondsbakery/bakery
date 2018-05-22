@@ -2,7 +2,7 @@
 layout: post
 title: Decorated Cookies
 permalink: /cookies/
-img: SquatchCookies.jpg
+img: SquatchCookie.jpg
 ---
 
 <h3> Cookies </h3>
