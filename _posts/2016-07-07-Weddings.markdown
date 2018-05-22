@@ -20,6 +20,7 @@ We've been in the cake business for over 25 years, creating beautiful wedding ca
 | Lemon        | Lemon Cream           |
 | Almond Poppy | Baileys               |
 | Carrot Cake  | Chocolate Buttercream |
+|     ?        | Red Velvet            |
 {: .table .table-striped .table-hover .u-full-width}
 
 <h4>Icing</h4>
@@ -29,22 +30,25 @@ French Buttercream, Light Whip Buttercream, and for an additional charge Cream C
 
 | Size         | Servings |     Price/Slice |
 |--------------|:--------:|----------------:|
-| 6x9          |    25    |   $112.50/$4.50 |
-| 8x12         |    50    |   $225.00/$4.50 |
-| 6x9x12       |    75    |   $318.75/$4.25 |
-| 6x10x14      |   100    |   $425.00/$4.25 |
-| 6x8x10x14    |   125    |   $531.25/$4.25 |
-| 8x12x16      |   150    |   $600.00/$4.00 |
-| 8x10x12x16   |   175    |   $700.00/$4.00 |
-| 6x10x14x16   |   200    |   $800.00/$4.00 |
-| 8x10x14x18   |   225    |   $900.00/$4.00 |
-| 8x12x14x18   |   250    |  $1000.00/$4.00 |
-| 6x9x12x16x18 |   300    |  $1200.00/$4.00 |
+| 6x9          |    25    |   $118.75/$4.75 |
+| 8x12         |    50    |   $237.50/$4.75 |
+| 6x9x12       |    75    |   $337.50/$4.50 |
+| 6x10x14      |   100    |   $450.00/$4.50 |
+| 6x8x10x14    |   125    |   $562.50/$4.50 |
+| 8x12x16      |   150    |   $637.50/$4.25 |
+| 8x10x12x16   |   175    |   $743.75/$4.25 |
+| 6x10x14x16   |   200    |   $850.00/$4.25 |
+| 8x10x14x18   |   225    |   $956.25/$4.25 |
+| 8x12x14x18   |   250    |  $1062.50/$4.25 |
+| 6x9x12x16x18 |   300    |  $1275.00/$4.25 |
 {: .table .table-striped .table-hover .u-full-width}
 
 We will be happy to arrange your fresh flowers on your cake if desired, ribbons provided if requested.
 
 These prices are just a guide, more complex designs may cost more, a complimentary anniversary cake provided the first year, call the bakery in advance to order it.
+
+See examples in our gallery:
+<a class="button" href="{{site.baseurl}}/gallery">Gallery</a>
 
 <h4>Delivery Charges</h4>
 
