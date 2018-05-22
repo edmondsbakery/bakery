@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Weddings"
-categories: jekyll update
+permalink: /weddings/
 img: UnicornCupcakes.jpg
-categories: one
 ---
 
 <h3>For your Special Day We'll handle the Cake</h3>
