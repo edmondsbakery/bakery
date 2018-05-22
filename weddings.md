@@ -2,7 +2,7 @@
 layout: post
 title:  "Weddings"
 permalink: /weddings/
-img: UnicornCupcakes.jpg
+img: aThreeTeir.jpg
 ---
 
 <h3>For your Special Day We'll handle the Cake</h3>
