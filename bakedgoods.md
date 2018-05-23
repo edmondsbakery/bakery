@@ -13,7 +13,7 @@ words: The most popular items at our bakery are our donuts and pastries. They're
    		</div>
    </a>
 
-   <a href="{{site.baseurl}}/img/MonsterMuffins.jpg">
+   <a href="{{site.baseurl}}/img/MonsterCupcakes.jpg">
     	<div class="four columns news-piece news-piece-2 border" style="background-image: url({{site.baseurl}}/img/MonsterCupcakes.jpg);">
     	<p class="news-title">Cupcakes for a party</p>
    		</div>
@@ -21,7 +21,7 @@ words: The most popular items at our bakery are our donuts and pastries. They're
 
    <a href="{{site.baseurl}}/img/UnicornCupcakes.jpg">
     	<div class="four columns news-piece news-piece-2 border" style="background-image: url({{site.baseurl}}/img/UnicornCupcakes.jpg);">
-    	<p class="news-title">Picture of a donut</p>
+    	<p class="news-title">Stand in for donut</p>
    		</div>
    </a>
 </div>
