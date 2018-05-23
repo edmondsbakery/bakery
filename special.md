@@ -10,6 +10,8 @@ We make hundreds of cakes every year to celebrate all sorts of things including 
 
 The tables below are a starting guide. Adding a picture has an additional surcharge. ALso note: pricing on the website may be out of date [contact]({{site.baseurl}}/contact/) the store for a more accurate quote. 
 
+See examples: <a class="button" href="{{site.baseurl}}/gallery">Gallery</a>
+
 <h4>Round Cakes</h4>
 
 | Size    | Serves   | Price  |
