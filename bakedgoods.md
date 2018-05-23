@@ -3,7 +3,7 @@ layout: gala
 title: Pastries & Donuts
 permalink: /bakedgoods/
 img: EmojiDonut.jpg
-words: The most popular items at our bakery are our donuts and pastries. They're available everyday, fresh, over the counter. Come in and grab one. If you would like a bulk special order donuts are available for $17.50 for a dozen and danishes for $30.00 for a dozen. Also, [contact]({{site.baseurl}}/contact/) us if your interest in any other custom baked good such as pullman-style bread, cupcakes or muffins, or something else entirely. See a few examples below.
+words: The most popular items at our bakery are our donuts and pastries. They're available everyday, fresh, over the counter. Come in and grab one. If you would like a bulk special order donuts are available for $17.50 for a dozen and danishes for $30.00 for a dozen. Also, contact us if your interest in any other custom baked good such as pullman-style bread, cupcakes or muffins, or something else entirely. See a few examples below.
 ---
 
 <div class="row row-border">
