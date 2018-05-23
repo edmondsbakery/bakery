@@ -3,7 +3,7 @@ layout: gala
 title: Decorated Cookies
 permalink: /cookies/
 img: SquatchCookie.jpg
-words: Our decorated cookies are a sugar cookie base with cream cheese icing. Pricing starts at $25.00 for a dozen and they make a great addition to any event. See the examples below.
+words: Our decorated cookies are a sugar cookie base with cream cheese icing. Pricing starts at $25.00 for a dozen and they make a great addition to any event. See a few the examples below.
 ---
 
 
