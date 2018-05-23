@@ -5,7 +5,7 @@ permalink: /weddings/
 img: aManyWedding.jpg
 ---
 
-<h3>For your Special Day We'll handle the Cake</h3>
+<h3>For Your Special Day We'll Handle the Cake</h3>
 We've been in the cake business for over 25 years, creating beautiful wedding cakes that taste as great as they look. When planning for your wedding cake, we suggest you [contact]({{site.baseurl}}/contact/) the bakery for a tasting and consulting appointment. We will be happy to assist you in choosing the right size and design as well.
 
 See examples: <a class="button" href="{{site.baseurl}}/gallery">Gallery</a>
@@ -21,7 +21,7 @@ See examples: <a class="button" href="{{site.baseurl}}/gallery">Gallery</a>
 | Lemon        | Lemon Cream           |
 | Almond Poppy | Baileys               |
 | Carrot Cake  | Chocolate Buttercream |
-|     ?        | Red Velvet            |
+| Red Velvet   | ?                     |
 {: .table .table-striped .table-hover .u-full-width}
 
 <h4>Icing</h4>
