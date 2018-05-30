@@ -8,7 +8,7 @@ img: aBoyCake.jpg
 <h3>Custom Cakes for any Event </h3>
 We make hundreds of cakes every year to celebrate all sorts of things including birthdays, graduations, baby-showers, and more. Cakes can be customized with your choice of words, edible decor, or even a picture printed and ready to eat.
 
-The tables below are a starting guide. Adding a picture has an additional surcharge. ALso note: pricing on the website may be out of date [contact]({{site.baseurl}}/contact/) the store for a more accurate quote. 
+The tables below are a starting guide. Adding a picture has an additional surcharge. Also note: pricing on the website may be out of date [contact]({{site.baseurl}}/contact/) the store for a more accurate quote. 
 
 See examples: <a class="button" href="{{site.baseurl}}/gallery">Gallery</a>
 

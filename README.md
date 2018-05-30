@@ -1,8 +1,1 @@
-Demo: [http://webjeda.com/bheema](http://webjeda.com/bheema)
-
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
-
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+This is a website designed for a small business - a bakery in Edmonds, Washington. The theme is Beema by Webjeda and it was created by David MacDonald. Links to those designs and people can be found in the footer of the site itself.

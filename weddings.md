@@ -12,16 +12,17 @@ See examples: <a class="button" href="{{site.baseurl}}/gallery">Gallery</a>
 
 <h4>Flavors and Fillings</h4>
 
-| Flavors      | Fillings              |
-|--------------|-----------------------|
-| White        | Raspberry             |
-| Marble       | Bavarian Cream        |
-| Chocolate    | Fudge                 |
-| Banana       | Cream Cheese          |
-| Lemon        | Lemon Cream           |
-| Almond Poppy | Baileys               |
-| Carrot Cake  | Chocolate Buttercream |
-| Red Velvet   | ?                     |
+| Flavors      | Fillings               |
+|--------------|------------------------|
+| White        | Raspberry              |
+| Marble       | Bavarian Cream         |
+| Chocolate    | Fudge                  |
+| Banana       | Cream Cheese           |
+| Lemon        | Lemon Cream            |
+| Almond Poppy | Baileys                |
+| Carrot Cake  | Chocolate Buttercream  |
+| Red Velvet   | Custard                |
+| Funfetti     | Check in store for more|
 {: .table .table-striped .table-hover .u-full-width}
 
 <h4>Icing</h4>
