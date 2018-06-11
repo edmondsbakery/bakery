@@ -1,10 +1,7 @@
-#Created by webjeda - http://webjeda.com
+title: Edmonds Bakery 
+email: edmondsbakery@comcast.net
 
-title: Edmonds Bakery #Keep it short
-email: edmondsbakery@gmail.com
-
-
-baseurl: /bakery
+baseurl: /
 
 sass:
  style: compressed

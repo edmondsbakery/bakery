@@ -1,1 +1,1 @@
-This is a website designed for a small business - a bakery in Edmonds, Washington. The theme is Beema by Webjeda and it was created by David MacDonald. Links to those designs and people can be found in the footer of the site itself.
+This is a website designed for a small business - a bakery in Edmonds, Washington. The theme is Beema which was created by Webjeda and the site itself was created by David MacDonald. Links to those designs and people can be found in the footer of the site.
