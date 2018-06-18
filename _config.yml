@@ -1,6 +1,7 @@
 title: Edmonds Bakery 
 email: edmondsbakery@comcast.net
 
+description: Edmonds Bakery is a local bakery that focuses on creating donuts, pastries, and custom cakes. Open 7am to 4:30 pm.
 ### baseurl: bakery
 
 sass:
@@ -8,8 +9,7 @@ sass:
  
  
 # Tracker
-# analytics: UA-83979019-1
- 
+analytics: UA-120986760-1
 ### exclude the instructions / write-up in the README.md
 exclude:
 - README.md
