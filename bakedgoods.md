@@ -19,8 +19,8 @@ words: The most popular items at our bakery are our doughnuts and pastries. They
    		</div>
    </a>
 
-   <a href="{{site.baseurl}}/img/Danishes.JPG">
-    	<div class="four columns news-piece news-piece-2 border" style="background-image: url({{site.baseurl}}/img/Danishes.JPG);">
+   <a href="{{site.baseurl}}/img/Danishes.jpg">
+    	<div class="four columns news-piece news-piece-2 border" style="background-image: url({{site.baseurl}}/img/Danishes.jpg);">
     	<p class="news-title">Everyday Danishes</p>
    		</div>
    </a>
